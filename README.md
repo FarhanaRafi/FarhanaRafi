@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @FarhanaRafi
 - 👀 I’m interested in Coding...
-- 🌱 I’m currently learning Fullstack.
+- 🌱 I’m currently learning Fullstack development.
 - 📫 How to reach me ...
 
 <!---
