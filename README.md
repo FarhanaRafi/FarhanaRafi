@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Farhana</h1>
 <h3 align="center">A passionate fullstack developer from Germany</h3>
-<h4 align="center"><a style="text-decoration:none; color:darkblue" href="https://portfolio-farhanarafi.vercel.app/">Portfolio</a></h4>
+<h4 align="center"><a style="text-decoration:none; color:darkblue" href="https://portfolio-farhanarafi.vercel.app/">PORTFOLIO</a></h4>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=farhanarafi&label=Profile%20views&color=0e75b6&style=flat" alt="farhanarafi" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=farhanarafi" alt="farhanarafi" /></a> </p>
