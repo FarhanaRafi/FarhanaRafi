@@ -2,7 +2,7 @@
 
 <h1 align="center">Hey there 👋, I'm Farhana</h1>
 <h3 align="center">A passionate fullstack developer from Germany</h3>
-<p align="center"><img src="https://miro.medium.com/max/875/1*qdAW1TjCN57h1lbuuzvchg.gif" width="100" /> </p>
+<p align="center"><img src="https://miro.medium.com/max/875/1*qdAW1TjCN57h1lbuuzvchg.gif" width="120" /> </p>
 <h4 align="center"><a style="text-decoration:none; color:darkblue" href="https://portfolio-farhanarafi.vercel.app/">PORTFOLIO</a></h4>
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=farhanarafi&label=Profile%20views&color=0e75b6&style=flat" alt="farhanarafi" /> </p>
 
