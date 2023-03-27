@@ -6,7 +6,7 @@
 <h4 align="center"><a style="text-decoration:none; color:darkblue" href="https://portfolio-farhanarafi.vercel.app/">PORTFOLIO</a></h4>
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=farhanarafi&label=Profile%20views&color=0e75b6&style=flat" alt="farhanarafi" /> </p>
 
-- 🌱 I’m currently learning **Node.js and backend development**
+- 🌱 I’m currently learning **NoSQL databases**
 
 - 💬 Ask me about **react, redux, responsive web development**
 
