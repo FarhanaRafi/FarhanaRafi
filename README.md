@@ -8,7 +8,7 @@
 
 - 🌱 I’m currently learning **Authentication & Authorization**
 
-- 💬 Ask me about **react, redux, responsive web development**
+- 💬 Ask me about **react, redux, Node.js, databases, responsive web development**
 
 - 📫 How to reach me **hana0795@gmail.com**
 
