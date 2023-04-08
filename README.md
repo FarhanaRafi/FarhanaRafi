@@ -1,4 +1,4 @@
-<img align="center" src="https://raw.githubusercontent.com/FarhanaRafi/FarhanaRafi/output/github-contribution-grid-snake.svg"/>
+<img align="center"  src="https://raw.githubusercontent.com/FarhanaRafi/FarhanaRafi/output/github-contribution-grid-snake.svg"/>
 
 <h1 align="center">Hey there 👋, I'm Farhana</h1>
 <h3 align="center">A passionate fullstack developer from Germany</h3>
